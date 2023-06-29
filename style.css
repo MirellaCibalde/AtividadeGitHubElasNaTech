@@ -1,0 +1,26 @@
+body {
+  padding:40px;
+}
+p {
+  text-align:justify;
+}
+
+h1 {
+  text-transform:uppercase;
+  font-size:45px;
+  font-weight:bold;
+  letter-spacing:10px;
+}
+
+.maincontainer {
+  padding:30px;
+}
+
+.headline {
+  font-weight:bold;
+  letter-spacing:5px;
+}
+
+.imgsubtitle {
+  text-align: center;
+}
